@@ -12,11 +12,17 @@ the reclist is strongly based on romaji and the symbols that are being used to i
 [how to read the reclist]
 (vowels)
 a = [ä]
+
 i = [i]
+
 i0 = [i̥] (soundless)
+
 u = [ɯ]
+
 u0 = [ɯ̥] (soundless)
+
 e = [e]
+
 o = [o]
 
 (consonants)
