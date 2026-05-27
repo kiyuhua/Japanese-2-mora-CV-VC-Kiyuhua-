@@ -10,6 +10,7 @@ any doubt about the terms of use, or need to report errors in the reclist, conta
 the reclist is strongly based on romaji and the symbols that are being used to indicate pronunciation of the connotation are from IPA/international phonetic alphabet
 
 [how to read the reclist]
+
 (vowels)
 a = [ä]
 
@@ -26,39 +27,73 @@ e = [e]
 o = [o]
 
 (consonants)
+
 k = [k]
+
 ky = [kʲ]
+
 g = [g]
+
 gy = [gʲ]
+
 s = [s]
+
 z = [z]
+
 sh = [ɕ]
+
 zh = [ʑ]
+
 t = [t]
+
 d = [d]
+
 ts = [t͡s]
+
 dz = [d͡z]
+
 ch = [t͡ɕ]
+
 n = [n]
+
 m = [m]
+
 ng = [ŋ] 
+
 N = [ɴ] (capital "n")
+
 ny = [ɲ]
+
 my = [mʲ]	
+
 ngy = [ŋʲ]
+
 j = [dʑ]
+
 h = [h]
+
 hy = [ç]
+
 f = [ɸ] 
+
 p = [p]
+
 py = [pʲ]
+
 b = [b]
+
 by = [bʲ]
+
 y = [j]
+
 w = [ɰ]
+
 r = [ɾ]~[ɺ]~[l]
+
 ry = [ɾʲ]~[ɺʲ]~[lʲ]
+
 v = [β]~[v]
+
 ʔ = ?
 
 [others]
