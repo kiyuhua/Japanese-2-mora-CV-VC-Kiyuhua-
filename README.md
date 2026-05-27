@@ -98,6 +98,6 @@ v = [β]~[v]
 
 [others]
 
-- = silence
+"-" = silence
 
 Thank you for writing it for me, Nagumi! ^^
