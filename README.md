@@ -12,6 +12,7 @@ the reclist is strongly based on romaji and the symbols that are being used to i
 [how to read the reclist]
 
 (vowels)
+
 a = [ä]
 
 i = [i]
